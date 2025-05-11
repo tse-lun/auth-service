@@ -1,6 +1,6 @@
 package com.stephen.authservice.service;
 
-import com.stephen.authservice.dao.User;
+import com.stephen.authservice.domain.User;
 import com.stephen.authservice.dto.AuthRequest;
 import com.stephen.authservice.dto.AuthResponse;
 import com.stephen.authservice.exceptions.UserAlreadyExistsException;
